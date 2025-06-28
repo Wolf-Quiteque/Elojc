@@ -1685,7 +1685,7 @@ ul {
         opacity: 1; }
 
 .banner-3 {
-  background: url("../images/banner-3.jpg") center center no-repeat;
+  background: url("../images/slide-1.webp") center center no-repeat;
   background-size: cover;
   position: relative;
   z-index: 2; }
@@ -1708,10 +1708,10 @@ ul {
     height: 3px;
     background: #0064eb; }
   .banner-3.slide-2 {
-    background: url("../images/slide-2.jpg") center center no-repeat;
+    background: url("../images/slide-2.webp") center center no-repeat;
     background-size: cover; }
   .banner-3.slide-3 {
-    background: url("../images/slide-3.jpg") center center no-repeat;
+    background: url("../images/slide-3.webp") center center no-repeat;
     background-size: cover; }
   .banner-3 .banner-content {
     margin: 270px 0 170px;
@@ -4581,7 +4581,7 @@ ul {
     breadcrumb
 ===========================================*/
 .breadcrumb-murtes {
-  background: url("../images/banner-3.jpg") center center no-repeat;
+  background: url("../images/slide-1.webp") center center no-repeat;
   background-size: cover;
   position: relative;
   z-index: 2; }
